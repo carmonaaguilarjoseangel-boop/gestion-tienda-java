@@ -8,7 +8,7 @@ Este es mi primer proyecto en Java. Consiste en un sistema por consola para gest
 * **Redimensionamiento:** Manejo de arreglos dinámicos para agregar más datos sin borrar los anteriores.
 
 ## 🛠️ Tecnologías utilizadas
-* Java (JDK 8 o superior)
+* Java (JDK 8)
 * Scanner para la entrada de datos por consola
 
 ## 📌 Estado del proyecto
